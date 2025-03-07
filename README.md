@@ -19,7 +19,7 @@ This is a command-line application built in C++ to manage student records. It al
 1. **Prerequisites**: A C++ compiler (e.g., g++, MinGW, or any IDE like Code::Blocks).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/StudentRecordSystem.git
+   git clone https://github.com/Gobikrishnanpro/StudentRecordSystem.git
    cd StudentRecordSystem
    g++ StudentRecordSystem.cpp -o sr
    ./sr
