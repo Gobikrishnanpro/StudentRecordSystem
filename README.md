@@ -25,10 +25,10 @@ This is a command-line application built in C++ to manage student records. It al
    ./sr
 
 ## Sample Usage
-Add: Enter 1, then input 101 John 85.5.
-Display: Enter 2 to see all records.
-Update: Enter 3, then 101 Jane 90.0 to update.
-Delete: Enter 4, then 101 to remove.
+1.Add: Enter 1, then input 101 John 85.5. || 
+2.Display: Enter 2 to see all records. || 
+3.Update: Enter 3, then 101 Jane 90.0 to update. || 
+4.Delete: Enter 4, then 101 to remove.
 
 ## File Structure
 StudentRecordSystem.cpp: Main source code.
